@@ -30,3 +30,9 @@ for _ in range(t):
     answer = both + only2 + neither + only3
 
     print(*answer)            
+
+print("pthton")
+a = bin
+c = 45
+print(a)
+print(c)
